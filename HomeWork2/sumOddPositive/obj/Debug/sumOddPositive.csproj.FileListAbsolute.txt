@@ -1,0 +1,5 @@
+C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\sumOddPositive\bin\Debug\sumOddPositive.exe.config
+C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\sumOddPositive\bin\Debug\sumOddPositive.exe
+C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\sumOddPositive\bin\Debug\sumOddPositive.pdb
+C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\sumOddPositive\obj\Debug\sumOddPositive.exe
+C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\sumOddPositive\obj\Debug\sumOddPositive.pdb

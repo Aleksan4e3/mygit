@@ -1,0 +1,6 @@
+C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\numberOfDigits\bin\Debug\numberOfDigits.exe.config
+C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\numberOfDigits\bin\Debug\numberOfDigits.exe
+C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\numberOfDigits\bin\Debug\numberOfDigits.pdb
+C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\numberOfDigits\obj\Debug\numberOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\numberOfDigits\obj\Debug\numberOfDigits.exe
+C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\numberOfDigits\obj\Debug\numberOfDigits.pdb
