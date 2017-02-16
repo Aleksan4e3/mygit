@@ -11,19 +11,56 @@ namespace maxNumber
     {
         // Находит наибольшее из 3-ех чисел
         static int maxNumber(int a, int b, int c)
-        {            
-            if (a>b && a>c)
+        {
+            if (a !=b && b!=c && c !=a)
             {
-                return a;
+                if (a > b && a > c)
+                {
+                    return a;
+                }
+                else if (b > c && b > a)
+                {
+                    return b;
+                }
+                else
+                {
+                    return c;
+                }
             }
-            else if (b>c && b>a)
+            if (a == b)
             {
-                return b;
+                if (a > c)
+                {
+                    return a;
+                }
+                else
+                {
+                    return c;
+                }
             }
-            else
+            if (a == c)
             {
-                return c;
+                if (a > b)
+                {
+                    return a;
+                }
+                else
+                {
+                    return b;
+                }
             }
+            if (c == b)
+            {
+                if (a > c)
+                {
+                    return a;
+                }
+                else
+                {
+                    return c;
+                }
+            }
+            return a;
         }    
         static void Main(string[] args)
         {

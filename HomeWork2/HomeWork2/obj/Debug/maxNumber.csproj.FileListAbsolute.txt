@@ -4,3 +4,9 @@ C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\HomeWork2\bin
 C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\HomeWork2\obj\Debug\maxNumber.csprojResolveAssemblyReference.cache
 C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
 C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
+D:\Начало пути\gitrep\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+D:\Начало пути\gitrep\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+D:\Начало пути\gitrep\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
+D:\Начало пути\gitrep\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+D:\Начало пути\gitrep\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+D:\Начало пути\gitrep\HomeWork2\HomeWork2\obj\Debug\maxNumber.csprojResolveAssemblyReference.cache
