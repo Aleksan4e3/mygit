@@ -1,6 +1,0 @@
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\imt\bin\Debug\imt.exe.config
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\imt\bin\Debug\imt.exe
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\imt\bin\Debug\imt.pdb
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\imt\obj\Debug\imt.csprojResolveAssemblyReference.cache
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\imt\obj\Debug\imt.exe
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\imt\obj\Debug\imt.pdb

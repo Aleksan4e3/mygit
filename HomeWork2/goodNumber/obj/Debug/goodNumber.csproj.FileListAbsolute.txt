@@ -1,6 +1,0 @@
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\goodNumber\bin\Debug\goodNumber.exe.config
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\goodNumber\bin\Debug\goodNumber.exe
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\goodNumber\bin\Debug\goodNumber.pdb
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\goodNumber\obj\Debug\goodNumber.csprojResolveAssemblyReference.cache
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\goodNumber\obj\Debug\goodNumber.exe
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\HomeWork2\goodNumber\obj\Debug\goodNumber.pdb
