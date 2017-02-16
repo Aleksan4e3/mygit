@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Онлайн-магазин</title>
+	<link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+	<header class="header">
+		<img class="logo" src="images/logo4.jpg" alt="Логотип">
+		<div class="menu">
+			<a class="menu link" href="Index.html">Главная</a>
+			<a class="menu link" href="Catalog.html">Каталог</a>
+			<a class="menu link" href="Contacts.html">Контакты</a>
+		</div>		
+	</header>
+	
+	<h1>Напишите нам</h1>			
+	
+	<form class="form">
+		<fieldset>
+			<legend>Форма для заполнения</legend>
+
+			<div>
+				<label class="label" for="name">Имя</label>
+				<input type="text" id="name" title="Введите имя" required="">
+			</div>
+
+			<div>
+				<label class="label" for="tel">Телефон</label>
+				<input type="tel" id="tel" title="Ваш мобильный телефон">
+			</div>
+
+			<div>
+				<label class="label" for="email">Email</label>
+				<input type="email" id="email" required="">
+			</div>
+
+			<div>
+				<label class="label" for="topic">Тема</label>
+				<input type="text" id="topic" value="Покупка телефона">
+			</div>
+
+			<div>
+				<label class="label" for="message">Сообщение</label>
+				<textarea class="textarea" cols="30" rows="10">Товаром остался доволен, закажу еще :)</textarea>
+			</div>
+
+			<div>
+				<input type="submit" value="Отправить">
+				<input type="reset" value="Очистить">
+			</div>
+		</fieldset>
+	</form>
+
+	<div class="contact-info">
+		<h4>Контактная информация</h4>
+		<ul>
+			<li>Телефон
+				<ul>
+					<li>MTC: +375(33) 777-00-00</li>
+					<li>Life: +375(25) 777-11-11</li>
+					<li>Velcom: +375(44) 777-22-22</li>
+				</ul>
+			</li>
+			<li>Адрес: Беларусь, г.Жлобин, ул.Первомайская,28</li>
+			<li>e-mail: alekcah4e3@mail.ru</li>
+		</ul>
+	</div>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1431.2677750573478!2d30.03992985376006!3d52.89269678148548!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sru!2sru!4v1484843701743" width="200" height="200" frameborder="0" style="border:0" allowfullscreen></iframe>
+</body>
+
+<footer class="footer">
+	&copy Все права защищены
+</footer>
+</html>
